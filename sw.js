@@ -6,7 +6,7 @@
 // Dopo aver caricato su GitHub una nuova versione di index.html, cambia il
 // numero di CACHE qui sotto (v1 -> v2): forza la pulizia della cache vecchia.
 
-const CACHE = "quiz-sdm-v2";
+const CACHE = "quiz-sdm-v3";
 const ASSETS = [
   "./",
   "./index.html",
